@@ -1,0 +1,127 @@
+<tr align=center><td>AB  </td><td><a target="_BLANK" href="http://www.arabsat.com/">Arab Satellite Communications Organization</a></td></tr>
+<tr align=center><td>ABS </td><td><a target="_BLANK" href="http://www.absatellite.net/home/index.html">Asia Broadcast Satellite</a></td></tr>
+<tr align=center><td>AC  </td><td><a target="_BLANK" href="http://www.asiasat.com.hk/">Asia Satellite Telecommunications Company (ASIASAT)</a></td></tr>
+<tr align=center><td>ALG </td><td>Algeria</td></tr>
+<tr align=center><td>ANG </td><td>Angola</td></tr>
+<tr align=center><td>ARGN</td><td>Argentina</td></tr>
+<tr align=center><td>ARM </td><td>Republic of Armenia</td></tr>
+<tr align=center><td>ASRA</td><td>Austria</td></tr>
+<tr align=center><td>AUS </td><td>Australia</td></tr>
+<tr align=center><td>AZER</td><td>Azerbaijan</td></tr>
+<tr align=center><td>BEL </td><td>Belgium</td></tr>
+<tr align=center><td>BELA</td><td>Belarus</td></tr>
+<tr align=center><td>BERM</td><td>Bermuda</td></tr>
+<tr align=center><td>BGD </td><td>Peoples Republic of Bangladesh</td></tr>
+<tr align=center><td>BHUT</td><td>Kingdom of Bhutan</td></tr>
+<tr align=center><td>BOL </td><td><a target="_BLANK" href="http://www.abe.bo/">Bolivia</a></td></tr>
+<tr align=center><td>BRAZ</td><td>Brazil</td></tr>
+<tr align=center><td>BUL</td><td>Bulgaria</td></tr>
+<tr align=center><td>CA  </td><td>Canada</td></tr>
+<tr align=center><td>CHBZ</td><td>China/Brazil</td></tr>
+<tr align=center><td>CHTU</td><td>China/Turkey</td></tr>
+<tr align=center><td>CHLE</td><td>Chile</td></tr>
+<tr align=center><td>CIS </td><td>Commonwealth of Independent States (former USSR)</td></tr>
+<tr align=center><td>COL </td><td>Colombia</td></tr>
+<tr align=center><td>CRI </td><td>Republic of Costa Rica</td></tr>
+<tr align=center><td>CZCH</td><td>Czech Republic (former Czechoslovakia)</td></tr>
+<tr align=center><td>DEN </td><td>Denmark</td></tr>
+<tr align=center><td>DJI </td><td>Republic of Djibouti</td></tr>
+<tr align=center><td>ECU </td><td><a target="_BLANK" href="http://exa.ec/index-en.html">Ecuador</a></td></tr>
+<tr align=center><td>EGYP</td><td>Egypt</td></tr>
+<tr align=center><td>ESA </td><td><a target="_BLANK" href="http://www.esa.int/">European Space Agency</a></td></tr>
+<tr align=center><td>ESRO</td><td><a target="_BLANK" href=""></a>European Space Research Organization</td></tr>
+<tr align=center><td>EST</td><td>Estonia</td></tr>
+<tr align=center><td>ETH</td><td>Ethiopia</td></tr>
+<tr align=center><td>EUME</td><td><a target="_BLANK" href="http://www.eumetsat.de/">European Organization for the<br>Exploitation of Meteorological Satellites (EUMETSAT)</a></td></tr>
+<tr align=center><td>EUTE</td><td><a target="_BLANK" href="http://www.eutelsat.com/">European Telecommunications Satellite Organization (EUTELSAT)</a></td></tr>
+<tr align=center><td>FGER</td><td>France/Germany</td></tr>
+<tr align=center><td>FIN </td><td>Finland</td></tr>
+<tr align=center><td>FR  </td><td>France</td></tr>
+<tr align=center><td>FRIT</td><td>France/Italy</td></tr>
+<tr align=center><td>GER </td><td>Germany</td></tr>
+<tr align=center><td>GHA </td><td>Republic of Ghana</td></tr>
+<tr align=center><td>GLOB</td><td><a target="_BLANK" href="http://www.globalstar.com/">Globalstar</a></td></tr>
+<tr align=center><td>GREC</td><td>Greece</td></tr>
+<tr align=center><td>GRSA</td><td>Greece/Saudi Arabia</td></tr>
+<tr align=center><td>GUAT</td><td>Guatemala</td></tr>
+<tr align=center><td>HUN </td><td>Hungary</td></tr>
+<tr align=center><td>IM  </td><td><a target="_BLANK" href="http://www.inmarsat.com/">International Mobile Satellite Organization (INMARSAT)</a></td></tr>
+<tr align=center><td>IND </td><td>India</td></tr>
+<tr align=center><td>INDO</td><td>Indonesia</td></tr>
+<tr align=center><td>IRAN</td><td>Iran</td></tr>
+<tr align=center><td>IRAQ</td><td>Iraq</td></tr>
+<tr align=center><td>IRID</td><td><a target="_BLANK" href="http://www.iridium.com/">Iridium</a></td></tr>
+<tr align=center><td>IRL </td><td>Ireland</td></tr>
+<tr align=center><td>ISRA</td><td>Israel</td></tr>
+<tr align=center><td>ISRO</td><td><a target="_BLANK" href="http://www.isro.org/">Indian Space Research Organisation</a></td></tr>
+<tr align=center><td>ISS </td><td><a target="_BLANK" href="http://www.nasa.gov/mission_pages/station/main/index.html">International Space Station</a></td></tr>
+<tr align=center><td>IT  </td><td>Italy</td></tr>
+<tr align=center><td>ITSO</td><td><a target="_BLANK" href="http://www.intelsat.com/">International Telecommunications Satellite Organization (INTELSAT)</a></td></tr>
+<tr align=center><td>JPN </td><td>Japan</td></tr>
+<tr align=center><td>KAZ </td><td>Kazakhstan</td></tr>
+<tr align=center><td>KEN </td><td>Republic of Kenya</td></tr>
+<tr align=center><td>LAOS</td><td>Laos</td></tr>
+<tr align=center><td>LKA</td><td>Democratic Socialist Republic of Sri Lanka</td></tr>
+<tr align=center><td>LTU </td><td>Lithuania</td></tr>
+<tr align=center><td>LUXE</td><td>Luxembourg</td></tr>
+<tr align=center><td>MA  </td><td>Morroco</td></tr>
+<tr align=center><td>MALA</td><td>Malaysia</td></tr>
+<tr align=center><td>MCO </td><td>Principality of Monaco</td></tr>
+<tr align=center><td>MDA </td><td>Republic of Moldova</td></tr>
+<tr align=center><td>MEX </td><td>Mexico</td></tr>
+<tr align=center><td>MMR </td><td>Republic of the Union of Myanmar</td></tr>
+<tr align=center><td>MNG </td><td>Mongolia</td></tr>
+<tr align=center><td>MUS </td><td>Mauritius</td></tr>
+<tr align=center><td>NATO</td><td><a target="_BLANK" href="http://www.nato.int/">North Atlantic Treaty Organization</a></td></tr>
+<tr align=center><td>NETH</td><td>Netherlands</td></tr>
+<tr align=center><td>NICO</td><td><a target="_BLANK" href="http://www.ico.com/">New ICO</a></td></tr>
+<tr align=center><td>NIG </td><td>Nigeria</td></tr>
+<tr align=center><td>NKOR</td><td>Democratic People's Republic of Korea</td></tr>
+<tr align=center><td>NOR </td><td>Norway</td></tr>
+<tr align=center><td>NPL </td><td>Federal Democratic Republic of Nepal</td></tr>
+<tr align=center><td>NZ  </td><td>New Zealand</td></tr>
+<tr align=center><td>O3B </td><td><a target="_BLANK" href="http://www.o3bnetworks.com/">O3b Networks</a></td></tr>
+<tr align=center><td>ORB </td><td><a target="_BLANK" href="http://www.orbcomm.com/">ORBCOMM</a></td></tr>
+<tr align=center><td>PAKI</td><td>Pakistan</td></tr>
+<tr align=center><td>PERU</td><td>Peru</td></tr>
+<tr align=center><td>POL </td><td>Poland</td></tr>
+<tr align=center><td>POR </td><td>Portugal</td></tr>
+<tr align=center><td>PRC </td><td>People's Republic of China</td></tr>
+<tr align=center><td>PRY </td><td>Republic of Paraguay</td></tr>
+<tr align=center><td>PRES</td><td>People's Republic of China/<a target="_BLANK" href="http://www.esa.int/">European Space Agency</a></td></tr>
+<tr align=center><td>QAT </td><td>State of Qatar</td></tr>
+<tr align=center><td>RASC</td><td><a target="_BLANK" href="http://www.rascomstar.com">RascomStar-QAF</a></td></tr>
+<tr align=center><td>ROC </td><td>Taiwan (Republic of China)</td></tr>
+<tr align=center><td>ROM </td><td>Romania</td></tr>
+<tr align=center><td>RP  </td><td>Philippines (Republic of the Philippines)</td></tr>
+<tr align=center><td>RWA </td><td>Republic of Rwanda</td></tr>
+<tr align=center><td>SAFR</td><td>South Africa</td></tr>
+<tr align=center><td>SAUD</td><td>Saudi Arabia</td></tr>
+<tr align=center><td>SDN </td><td>Republic of Sudan</td></tr>
+<tr align=center><td>SEAL</td><td><a target="_BLANK" href="http://www.sea-launch.com">Sea Launch</a></td></tr>
+<tr align=center><td>SEN</td><td>Republic of Senegal</td></tr>
+<tr align=center><td>SES</td><td><a target="_BLANK" href="http://www.ses.com">SES</a></td></tr>
+<tr align=center><td>SGJP</td><td>Singapore/Japan</td></tr>
+<tr align=center><td>SING</td><td>Singapore</td></tr>
+<tr align=center><td>SKOR</td><td>Republic of Korea</td></tr>
+<tr align=center><td>SPN </td><td>Spain</td></tr>
+<tr align=center><td>STCT</td><td>Singapore/Taiwan</td></tr>
+<tr align=center><td>SVN</td><td>Slovenia</td></tr>
+<tr align=center><td>SWED</td><td>Sweden</td></tr>
+<tr align=center><td>SWTZ</td><td>Switzerland</td></tr>
+<tr align=center><td>TBD </td><td>To Be Determined</td></tr>
+<tr align=center><td>THAI</td><td>Thailand</td></tr>
+<tr align=center><td>TMMC</td><td>Turkmenistan/Monaco</td></tr>
+<tr align=center><td>TUN </td><td>Republic of Tunisia</td></tr>
+<tr align=center><td>TURK</td><td>Turkey</td></tr>
+<tr align=center><td>UAE </td><td>United Arab Emirates</td></tr>
+<tr align=center><td>UK  </td><td>United Kingdom</td></tr>
+<tr align=center><td>UKR </td><td>Ukraine</td></tr>
+<tr align=center><td>UNK </td><td>Unknown</td></tr>
+<tr align=center><td>URY </td><td>Uruguay</td></tr>
+<tr align=center><td>US  </td><td>United States</td></tr>
+<tr align=center><td>USBZ</td><td>United States/Brazil</td></tr>
+<tr align=center><td>VAT </td><td>Vatican City State</td></tr>
+<tr align=center><td>VENZ</td><td>Venezuela</td></tr>
+<tr align=center><td>VTNM</td><td>Vietnam</td></tr>
+<tr align=center><td>ZWE </td><td>Republic of Zimbabwe</td></tr>
