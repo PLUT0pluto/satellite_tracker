@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sketch</title>
+
+
+    
+
+    <script src = "../node_modules/react/umd/react.development.js"></script>
+    <script src = "../node_modules/react-dom/umd/react-dom.development.js"></script>
+    <link rel="stylesheet" type="text/css" href="../style/react_stuff.css">
+    <link rel="stylesheet" type="text/css" href="../misc/tailwind_file.css">
+    <link rel="stylesheet" href="../node_modules/leaflet/dist/leaflet.css">
+    <script src="../node_modules/leaflet/dist/leaflet.js"></script>
+    <script src="../node_modules/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="../node_modules/leaflet.markercluster/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="../node_modules/leaflet.markercluster/dist/MarkerCluster.Default.css">
+    <script src="../node_modules/jquery/dist/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../node_modules/datatables.net-dt/css/dataTables.dataTables.min.css">
+    <script type="text/javascript" charset="utf8" src="../node_modules/datatables.net/js/dataTables.min.js"></script>
+    <script src="../node_modules/datatables.net-plugins/sorting/custom-data-source/dom-checkbox.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.4.0/css/fixedHeader.dataTables.min.css"/>
+    <script src="https://cdn.datatables.net/fixedheader/3.4.0/js/dataTables.fixedHeader.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../style/style_variables.css">
+    <link rel="stylesheet" type="text/css" href="../style/style_main.css">
+    <link rel="stylesheet" type="text/css" href="../style/dynamic_input.css">
+    <link rel="stylesheet" type="text/css" href="../style/checkbox.css">
+    <link rel="stylesheet" type="text/css" href="../style/table.css">
+    <link rel="stylesheet" type="text/css" href="../style/filters.css">
+    <link rel="stylesheet" type="text/css" href="../style/buttons.css">
+  </head>
+
+  <body>
+
+    
+    <p id = "satCount">Satellites on map: 0</p>
+    
+    <div class = "mainContainer" >
+
+      <script type = "module" src="../build/out.js"></script>
+
+      <div id ="topCont" class= "borderCont">
+        <div id = "mapCont">
+          <div id="map" class = ""></div>
+        </div>
+
+        <div id = 'rightCont' class =""></div>
+      </div>
+
+      <div id = "bottomCont" class = "tableContainer borderCont">
+        <table id = "satTable" class = "tableClass hover nowrap order-column">
+          
+        </table>
+      </div>
+      <div class = "h-24"></div>
+
+    </div>
+
+
+  </body>
+</html>

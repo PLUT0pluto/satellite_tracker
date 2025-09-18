@@ -1,0 +1,80 @@
+table.dataTable tbody td.dt-type-numeric,
+table.dataTable thead th.dt-type-numeric,
+table.dataTable tbody td.dt-body-right,
+table.dataTable thead th.dt-body-right {
+    text-align: center !important;    /* Override DataTables default right allign for numbers*/
+}
+
+.tableContainer {
+    display: block;            /* or flex plus min-width:0 if needed */
+    width: 100%;
+    max-height: 600px;
+    overflow: auto;            /* both axes */
+    background-color: rgb(var(--bg-color-darker));
+    padding: 10px;
+    font-family: var(--font-family-mono);
+}
+
+/* DataTables scroll wrapper adjustments */
+.dt-scroll-body {
+    overscroll-behavior-x: none;
+    -webkit-overflow-scrolling: auto;
+}
+
+/* Base table */
+.tableClass {
+    width: 100%;
+    border-collapse: collapse;
+    border: var(--border-width) solid black;
+    box-shadow: var(--shadow-offset) var(--shadow-offset) 0 black;
+    background-color: rgb(var(--bg-color-darker));
+    text-align: center;
+}
+
+/* Header cells */
+.tableClass thead th {
+    background-color: rgb(var(--bg-color-button));
+    border: var(--border-width) solid black;
+    padding: var(--header-padding);
+    vertical-align: middle;
+    text-align: center;
+    position: sticky; /* optional if removing FixedHeader */
+    top: 0;
+    z-index: 2;
+}
+.tableClass thead th:hover {
+    background-color: rgb(var(--bg-color-highlight))
+}
+
+/* Body cells */
+.tableClass td {
+    border: var(--border-width) solid black;
+    padding: var(--cell-padding);
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Zebra striping */
+.tableClass tbody tr:nth-child(odd) {
+    background-color: rgb(var(--bg-color-dark));
+}
+.tableClass tbody tr:nth-child(even) {
+    background-color: rgb(var(--bg-color));
+}
+
+/* Row hover & highlight */
+.tableClass tbody tr:hover {
+    filter: none;
+}
+.tableClass tbody tr.redColor:has(input[type="checkbox"]:checked) {
+    background-color: rgb(var(--missing-sat-color));
+}
+
+
+/*colors for paging and search box lines*/
+#dt-length-0,
+#dt-search-0,
+.dt-paging-button {
+    background-color: rgb(var(--bg-color));
+    border: var(--border-width) solid black;
+}

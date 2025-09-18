@@ -1,0 +1,21 @@
+:root {
+    /* Colors (use as rgb or hex wherever needed) */
+    --main-color: 90, 90, 90;             /* Borders, shadows */
+    --input-focus: 45, 140, 240;          /* Input focus ring */
+    --input-out-of-focus: 204, 204, 204;  /* Input default border */
+    --bg-color: 255, 255, 255;            /* Table row background */
+    --bg-color-alt: 102, 102, 102;        /* Alternate row background */
+    --bg-color-dark: 245, 239, 255;       /* Page background */
+    --missing-sat-color: 247, 55, 79;       /* Highlight color */
+    --bg-color-darker: 229, 217, 242;     /* color of inner divs */
+    --bg-color-button:  205, 193, 255;    /* button color */
+    --bg-color-highlight: 162, 148, 249;  /* color of mouse hover highlight effect */
+
+    /* Spacing & sizing */
+    --border-width: 2px;
+    --shadow-offset: 4px;
+    --cell-padding: 8px;
+    --header-padding: 10px;
+    --font-family-mono: 'Press Start 2P', monospace;
+    --font-family-body: 'Courier New', Courier, monospace;
+}

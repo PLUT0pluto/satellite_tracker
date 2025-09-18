@@ -1,0 +1,28 @@
+.buttonClass {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(var(--bg-color-button));
+    color: black;
+    box-shadow: 3px 3px 0 0 rgb(80, 80, 80), 0 2px 8px 0 black;
+    cursor: pointer;
+    user-select: none;
+    transition:
+            box-shadow 0.13s cubic-bezier(.4,.2,.6,1),
+            transform 0.10s cubic-bezier(.4,.2,.6,1),
+            background-color 0.13s cubic-bezier(.4,.2,.6,1),
+            color 0.13s cubic-bezier(.4,.2,.6,1);
+    outline: none;
+}
+.buttonClass:hover {
+    background-color: rgb(var(--bg-color-highlight));
+    color: #222;
+    transform: translateY(-1.5px) scale(1.01);
+    box-shadow: 4px 4px 0 0 rgb(80, 80, 80), 0 12px 32px 0 black;
+    filter: none;
+}
+.buttonClass:active {
+    color: #111;
+    transform: translateY(0.5px) scale(0.98);
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.10);
+    filter: none;
+}
