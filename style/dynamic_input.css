@@ -1,0 +1,63 @@
+/* --- keep your existing container + top-separator rules as-is --- */
+.dinp-input{
+  width: 100%;
+  padding-left: 11px;
+  height: 40px
+}
+.dinp-input::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 20px; /* Adjust this value for the left space */
+  right: 20px; /* Adjust this value for the right space */
+  border-bottom: 1px solid black; /* Adjust the border properties as needed */
+}
+/* Suggestion item: make it a positioning context */
+.dynamic-input .dinp-suggestion-item {
+  position: relative;      /* new: to contain absolute separator */
+  padding: 4px 12px;
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 0;
+}
+
+/* Remove the old in-item bottom separator rule (disable it) */
+/* .dynamic-input .dinp-suggestion-item:not(:last-child)::after { ... } */
+/* If you can't remove it elsewhere, override it: */
+.dynamic-input .dinp-suggestion-item:not(:last-child)::after {
+  content: none;
+  display: none;
+}
+
+/* Separator between items:
+   Drawn at the top edge of each item except the first, absolutely positioned
+   and placed above the item's background with a higher z-index. */
+.dynamic-input .dinp-suggestion-item:not(:first-child)::before {
+  content: "";
+  position: absolute;
+  top: 0;                  /* sits at the top of the item (i.e. between items) */
+  left: 5%;                /* gives 90% width centered */
+  right: 5%;
+  height: 1px;
+  background: #000;
+  margin: 0;
+  border-radius: 0;
+  pointer-events: none;    /* separator doesn't steal clicks */
+  z-index: 2;              /* above the item's background so it stays visible */
+}
+
+/* Hover: highlight the item's box but the separator remains visible */
+.dynamic-input .dinp-suggestion-item:hover,
+.dynamic-input .dinp-suggestion-item:focus {
+  background: #e9e9e9;
+  outline: none;
+  border-radius: 0;
+  /* ensure the hovered item's stacking doesn't accidentally cover the separator */
+  z-index: 1;
+}
+
+/* Active/tap visual */
+.dynamic-input .dinp-suggestion-item:active {
+  background: #dcdcdc;
+}

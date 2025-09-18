@@ -1,0 +1,24 @@
+input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    appearance: none; /* Remove default checkbox */
+    -webkit-appearance: none; /* Remove default checkbox */
+    width: 0;
+    height: 0;
+    pointer-events: none; /* Prevent interaction */
+}
+.checkmark {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: var(--border-width) solid black;
+    background-color: white;
+    flex-shrink: 0;
+}
+.checkmarktransition { /*dataTables does weird rerendering so transitions dont work*/
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+label input[type="checkbox"]:checked ~ .checkmark {
+    background-color: black;
+    transform: scale(1.3);
+}
