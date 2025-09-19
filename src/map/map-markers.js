@@ -8,7 +8,7 @@ import 'leaflet/dist/leaflet.css';
 import 'leaflet.markercluster';
 import 'leaflet.markercluster/dist/MarkerCluster.css';
 import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
-import '../../misc/tailwind_file.css';
+import '../../style/tailwind.css';
 import $ from 'jquery';
 import 'datatables.net';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
